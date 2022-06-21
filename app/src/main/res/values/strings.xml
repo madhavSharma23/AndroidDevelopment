@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sharma Dairy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Madhav Sharma</string>
+    <string name="nav_header_subtitle">madhav.sharma@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_add_customer">Add Customer</string>
+    <string name="menu_hazri">Hazri</string>
+    <string name="menu_cows">Cows</string>
+    <string name="menu_calender">Calender</string>
+    <string name="menu_calculator">Calculator</string>
+    <string name="menu_bills">Bill</string>
+    <string name="menu_report">Reports</string>
+    <string name="menu_about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

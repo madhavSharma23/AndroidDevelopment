@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_customer"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_add_customer" />
+        <item
+            android:id="@+id/nav_hazri"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_hazri" />
+        <item
+            android:id="@+id/nav_cows"
+            android:icon="@drawable/ic_menu_cow"
+            android:title="@string/menu_cows" />
+        <item
+            android:id="@+id/nav_calender"
+            android:icon="@drawable/calender"
+            android:title="@string/menu_calender" />
+        <item
+            android:id="@+id/nav_bills"
+            android:icon="@drawable/ic_menu_cow"
+            android:title="@string/menu_bills" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_menu_cow"
+            android:title="@string/menu_report" />
+        <item
+            android:id="@+id/nav_calculator"
+            android:icon="@drawable/ic_menu_cow"
+            android:title="@string/menu_calculator" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_cow"
+            android:title="@string/menu_about" />
+    </group>
+</menu>
